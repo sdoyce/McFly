@@ -1,0 +1,15 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Node / Python / common
+node_modules/
+env/
+venv/
+*.log
+
+# Editor temp files
+*.swp
+*.swo
+.idea/
+.vscode/
